@@ -1,0 +1,5 @@
+<config version="1.0">
+	<distribution_id>69e06799ce044819913422025ed30a13</distribution_id>
+	<cloud_elb_address>https://distributions.traps.paloaltonetworks.com</cloud_elb_address>
+    <proxy_list />
+</config>
